@@ -3,7 +3,7 @@ File bank.csv chứa thông tin chi tiết về tình hình tài chính của c�
 sô tài chính khác.
 Sử dụng công cụ Superset để vẽ biểu đồ.
 ## Mô tả biểu đồ 
-1. Sử dụng biểu đồ thể hiện tỷ lệ của các ngân hàng phá sản và không phá sản trong tập dữ liệu. 
+1. Sử dụng biểu đồ tròn thể hiện tỷ lệ của các ngân hàng phá sản và không phá sản trong tập dữ liệu. 
 2. Sử dụng biểu đồ cột so sánh các chỉ số ROA giữa ngân hàng phá sản và không phá sản
    Trong đó:
    - ROA (Return on Assets): Tỷ suất lợi nhuận trên tài sản
